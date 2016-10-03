@@ -1,0 +1,47 @@
+table, th, td {
+    border: 1px solid black;
+	text-align: center;
+}
+input {
+	text-align: center;
+}
+
+table {
+	margin-left:auto;
+	margin-right:auto;
+	width: 500px;
+	/*margin: 0 auto;*/
+}
+
+td {
+	width: 33%;
+	padding: 1px;
+}
+
+#main {
+	width: 100%;
+	padding: 3px;
+}
+
+#buttons {
+	margin-left:auto;
+	margin-right:auto;
+	width: 500px;
+	text-align:center;
+	margin-top: 4px;
+}
+
+#timerId {
+	border: 1px solid black;
+	display: none;
+	text-align: center;
+	margin-top:4px;
+}
+
+h4 {
+	padding: 2px;
+}
+
+#autocomplete {
+	display: none;
+}
